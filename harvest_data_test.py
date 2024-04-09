@@ -64,4 +64,4 @@ assert len(get_market_data_list) == 6
 
 test_write_to_file = harvest_data_helpers.write_to_file(get_market_data_list)
 reader = csv.reader(open("final_odds.csv"))
-assert len(list(reader)) > 2
+assert len(list(reader)) > 2 # verifies data has been written to the file. I could use another test csv instead of overwriting the one used for pulling data.
