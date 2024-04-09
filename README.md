@@ -1,5 +1,5 @@
 ### How to run/Verify:
-- `pip install requirements.txt`
+- `pip install -r requirements.txt`
 - `python harvest_data.py`
 - look at final_odds.csv for data!
 
