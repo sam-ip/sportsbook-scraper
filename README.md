@@ -12,7 +12,8 @@
 - Polling implemented, though naive. Using python's main running thread via timer object or the equivalent would have more control over how this program is run, especially when other methods may be called in the future.
 - Fail gracefully implemented with some Exception handling, and a moreso naive retry mechanism is established. Alongside the 10 second delay, I figured that would be sufficient to give a minute of requests to configure before failing. Future work using exponential backoff could work depending on usage of harvest_data.
 - My solution could be extended to accept different sports, leagues, regions, and books by accepting command-line arguments of these fields and parsing via sys.argv 
-- more unit tests could be written (ex. input cleanliness, harvesting different sports, output cleanliness), and the format of data in the csv could be cleaner... especially if we're introducing more sportsbooks, API's to scrape, and different lines in the future. 
+- more unit tests could be written (ex. input cleanliness, harvesting different sports, output cleanliness), and the format of data in the csv could be cleaner... especially if we're introducing more sportsbooks, API's to scrape, and different lines in the future.
+- can introduce local .env variables to store API keys, and other potentially harmful substances
 - Ran on Windows PC... I was playing video games before this on my PC lol
 
 ### Assumptions:
