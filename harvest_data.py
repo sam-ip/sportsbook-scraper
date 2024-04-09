@@ -49,7 +49,7 @@ class DraftKingsNBAScraper():
         
         FAILED_ATTEMPTS = 0
         markets = []
-        draftkings_api_json = draftkings_api_response.json()
+        draftkings_api_json = draftkings_api_response.json() # example response can be found in odds_sample_result.json
         for game in draftkings_api_json:
             sport_league = game["sport_key"]
             home_team, away_team, commence_time = game["home_team"], game['away_team'], game['commence_time']
@@ -57,7 +57,7 @@ class DraftKingsNBAScraper():
 
         harvest_data_helpers.write_to_file(markets)
 
-        # Check the usage quota
+        # Check the usage quota from the-odds-api
         print('Remaining requests', draftkings_api_response.headers['x-requests-remaining'])
         print('Used requests', draftkings_api_response.headers['x-requests-used'])
 
@@ -66,5 +66,3 @@ scraper = DraftKingsNBAScraper()
 while True:
     scraper.harvest_data()
     time.sleep(10)
-
-# "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/?apiKey=95e2d43eb60275fd62ab83fae3d186f2&markets=h2h,spreads,totals&bookmakers=draftkings&commenceTimeFrom=2024-04-08T00:00:00Z"
