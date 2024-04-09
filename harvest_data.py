@@ -11,6 +11,8 @@ BOOKMAKERS = 'draftkings'
 ODDS_FORMAT = 'decimal'
 DATE_FORMAT = 'iso'
 
+URL = f'https://api.the-odds-api.com/v4/sports/{SPORTS}/odds'
+
 FAILED_ATTEMPTS = 0
 MAX_FAILED_ATTEMPTS = 6
     
@@ -25,11 +27,10 @@ def fail_gracefully(status_code, response_text):
 class DraftKingsNBAScraper():
 
     def harvest_data(self):
-        url = f'https://api.the-odds-api.com/v4/sports/{SPORTS}/odds'
         draftkings_api_response = None
         try: 
             draftkings_api_response = requests.get(
-                url,
+                URL,
                 params={
                     'api_key': API_KEY,
                     'regions': REGIONS,
@@ -49,10 +50,8 @@ class DraftKingsNBAScraper():
         
         FAILED_ATTEMPTS = 0
         markets = []
-        draftkings_api_json = draftkings_api_response.json() # example response can be found in odds_sample_result.json
-        for game in draftkings_api_json:
-            sport_league = game["sport_key"]
-            home_team, away_team, commence_time = game["home_team"], game['away_team'], game['commence_time']
+        for game in draftkings_api_response.json(): # example response can be found in odds_sample_result.json
+            sport_league, home_team, away_team, commence_time = game["sport_key"], game["home_team"], game['away_team'], game['commence_time']
             markets = harvest_data_helpers.get_markets(game, sport_league, home_team, away_team, commence_time)
 
         harvest_data_helpers.write_to_file(markets)
