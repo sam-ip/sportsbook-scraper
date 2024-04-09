@@ -1,0 +1,799 @@
+[{
+        "id": "c5e653a024326e1ae72231bb1c005328",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-09T23:10:00Z",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Charlotte Hornets",
+                            "price": 5.25
+                        },
+                        {
+                            "name": "Dallas Mavericks",
+                            "price": 1.17
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Charlotte Hornets",
+                            "price": 1.91,
+                            "point": 10.5
+                        },
+                        {
+                            "name": "Dallas Mavericks",
+                            "price": 1.91,
+                            "point": -10.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.93,
+                            "point": 221.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.89,
+                            "point": 221.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "b8d921cfa2bc48e6723fc88ecfb9e3d9",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-09T23:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Detroit Pistons",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Detroit Pistons",
+                            "price": 10.0
+                        },
+                        {
+                            "name": "Philadelphia 76ers",
+                            "price": 1.06
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Detroit Pistons",
+                            "price": 1.91,
+                            "point": 15.0
+                        },
+                        {
+                            "name": "Philadelphia 76ers",
+                            "price": 1.91,
+                            "point": -15.0
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 220.0
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 220.0
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "5d7cdf50577604b937905c59727d59a0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-09T23:10:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Indiana Pacers",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Indiana Pacers",
+                            "price": 1.2
+                        },
+                        {
+                            "name": "Toronto Raptors",
+                            "price": 4.8
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Indiana Pacers",
+                            "price": 1.91,
+                            "point": -10.0
+                        },
+                        {
+                            "name": "Toronto Raptors",
+                            "price": 1.91,
+                            "point": 10.0
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 239.0
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 239.0
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "7b6a78b2d6c9c0921485eb13f49183dd",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-09T23:30:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Boston Celtics",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Boston Celtics",
+                            "price": 1.77
+                        },
+                        {
+                            "name": "Milwaukee Bucks",
+                            "price": 2.1
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Boston Celtics",
+                            "price": 1.91,
+                            "point": -2.0
+                        },
+                        {
+                            "name": "Milwaukee Bucks",
+                            "price": 1.91,
+                            "point": 2.0
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 227.0
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 227.0
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "fc2b2e5314b82a5eb6649ae47427d50f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-09T23:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Miami Heat",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Atlanta Hawks",
+                            "price": 2.42
+                        },
+                        {
+                            "name": "Miami Heat",
+                            "price": 1.59
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Atlanta Hawks",
+                            "price": 1.93,
+                            "point": 3.0
+                        },
+                        {
+                            "name": "Miami Heat",
+                            "price": 1.89,
+                            "point": -3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 223.0
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 223.0
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "fb863e988f05d0f676905bbd9770768e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T00:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "New York Knicks",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Chicago Bulls",
+                            "price": 2.4
+                        },
+                        {
+                            "name": "New York Knicks",
+                            "price": 1.6
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Chicago Bulls",
+                            "price": 1.93,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "New York Knicks",
+                            "price": 1.89,
+                            "point": -3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 212.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 212.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "c08f91306f62063eeeb6ba34bff31cf3",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T00:10:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Orlando Magic",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Houston Rockets",
+                            "price": 2.1
+                        },
+                        {
+                            "name": "Orlando Magic",
+                            "price": 1.77
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Houston Rockets",
+                            "price": 1.89,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "Orlando Magic",
+                            "price": 1.93,
+                            "point": -2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.93,
+                            "point": 213.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.89,
+                            "point": 213.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "2825335c52a118da515ee62b19b92c52",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T00:10:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "San Antonio Spurs",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Memphis Grizzlies",
+                            "price": 2.14
+                        },
+                        {
+                            "name": "San Antonio Spurs",
+                            "price": 1.74
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Memphis Grizzlies",
+                            "price": 1.91,
+                            "point": 2.5
+                        },
+                        {
+                            "name": "San Antonio Spurs",
+                            "price": 1.91,
+                            "point": -2.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 215.0
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 215.0
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "e6e57624cc7f03da5107bc87da76522d",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T00:10:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Washington Wizards",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Minnesota Timberwolves",
+                            "price": 1.07
+                        },
+                        {
+                            "name": "Washington Wizards",
+                            "price": 9.5
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Minnesota Timberwolves",
+                            "price": 1.89,
+                            "point": -16.5
+                        },
+                        {
+                            "name": "Washington Wizards",
+                            "price": 1.91,
+                            "point": 16.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.93,
+                            "point": 222.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.89,
+                            "point": 222.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "ecb2f216e68bd638f41b133b2d648034",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T00:10:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Oklahoma City Thunder",
+                            "price": 1.62
+                        },
+                        {
+                            "name": "Sacramento Kings",
+                            "price": 2.36
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Oklahoma City Thunder",
+                            "price": 1.89,
+                            "point": -3.5
+                        },
+                        {
+                            "name": "Sacramento Kings",
+                            "price": 1.93,
+                            "point": 3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 228.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 228.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "304031f6b188427f7cdafb35025935a1",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T01:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Denver Nuggets",
+                            "price": 1.1
+                        },
+                        {
+                            "name": "Utah Jazz",
+                            "price": 7.5
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Denver Nuggets",
+                            "price": 1.91,
+                            "point": -13.5
+                        },
+                        {
+                            "name": "Utah Jazz",
+                            "price": 1.91,
+                            "point": 13.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 224.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 224.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "a61f4d7de90ae5f39ab4aa31f2ab85dc",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T02:10:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Golden State Warriors",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Golden State Warriors",
+                            "price": 2.1
+                        },
+                        {
+                            "name": "Los Angeles Lakers",
+                            "price": 1.77
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Golden State Warriors",
+                            "price": 1.91,
+                            "point": 2.0
+                        },
+                        {
+                            "name": "Los Angeles Lakers",
+                            "price": 1.91,
+                            "point": -2.0
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 232.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 232.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "34576212f0cc575d1af52089c3db0a27",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T02:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Los Angeles Clippers",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Los Angeles Clippers",
+                            "price": 2.36
+                        },
+                        {
+                            "name": "Phoenix Suns",
+                            "price": 1.62
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Los Angeles Clippers",
+                            "price": 1.91,
+                            "point": 3.5
+                        },
+                        {
+                            "name": "Phoenix Suns",
+                            "price": 1.91,
+                            "point": -3.5
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 225.0
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 225.0
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
+    {
+        "id": "248a29b056382602f9cb6e629407acca",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-04-10T02:10:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "New Orleans Pelicans",
+        "bookmakers": [{
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2024-04-08T21:57:08Z",
+            "markets": [{
+                    "key": "h2h",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "New Orleans Pelicans",
+                            "price": 1.22
+                        },
+                        {
+                            "name": "Portland Trail Blazers",
+                            "price": 4.8
+                        }
+                    ]
+                },
+                {
+                    "key": "spreads",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "New Orleans Pelicans",
+                            "price": 1.91,
+                            "point": -10.0
+                        },
+                        {
+                            "name": "Portland Trail Blazers",
+                            "price": 1.91,
+                            "point": 10.0
+                        }
+                    ]
+                },
+                {
+                    "key": "totals",
+                    "last_update": "2024-04-08T21:57:08Z",
+                    "outcomes": [{
+                            "name": "Over",
+                            "price": 1.91,
+                            "point": 210.5
+                        },
+                        {
+                            "name": "Under",
+                            "price": 1.91,
+                            "point": 210.5
+                        }
+                    ]
+                }
+            ]
+        }]
+    }
+]
