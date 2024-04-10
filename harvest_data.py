@@ -17,11 +17,12 @@ FAILED_ATTEMPTS = 0
 MAX_FAILED_ATTEMPTS = 6
     
 def fail_gracefully(status_code, response_text):
+    global FAILED_ATTEMPTS
     print(f'Failed to get odds for sports: status code {status_code}\n response: {response_text}')
     FAILED_ATTEMPTS += 1
     print(f'request failed {FAILED_ATTEMPTS} times, exiting at threshold {MAX_FAILED_ATTEMPTS}')
     if FAILED_ATTEMPTS == MAX_FAILED_ATTEMPTS:
-        os.exit()
+        os._exit(1)
 
 # Scrapes current NBA game lines and updates final_odds.csv
 class DraftKingsNBAScraper():
