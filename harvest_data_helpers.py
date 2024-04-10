@@ -16,8 +16,7 @@ class Market:
 
 def get_markets(markets, sport_league, home_team, away_team, commence_time):
     final_markets = []
-    time_now = time.time()
-    formatted_time = strftime('%Y-%m-%d %H:%M:%S', localtime(time_now))
+    formatted_time = strftime('%Y-%m-%d %H:%M:%S', localtime(time.time()))
     for book in markets["bookmakers"]:
         for market in book["markets"]:
             market_name = market["key"]
